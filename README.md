@@ -12,7 +12,7 @@ Leveraging this dataset, the task at hand involves constructing machine learning
 
 ### Retrieve the data
 
-The data is located in file.
+The data is located in the file.
 
 * `lending_data.csv`
 
