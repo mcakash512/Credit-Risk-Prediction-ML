@@ -1,20 +1,18 @@
-# Supervised ML- Predicting Credit Risk
-
-# Machine Learning Bootcamp Assignment
+# Predicting Credit Risk with Supervised-ML
 
 Build a machine learning model that attempts to predict whether a loan will be approved or not. 
 
 ## Background
 
-Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
+In the realm of lending services, companies offer opportunities for individual investors to partially finance personal loans and engage in the buying and selling of notes tied to these loans on a secondary market.
 
-Use this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
+Leveraging this dataset, the task at hand involves constructing machine learning models to categorize the risk associated with specific loans. More precisely, the focus will be on comparing the efficacy of the Logistic Regression model against the Random Forest Classifier.
 
 ## Instructions
 
 ### Retrieve the data
 
-The data is located in the Resources folder.
+The data is located in file.
 
 * `lending_data.csv`
 
@@ -22,7 +20,7 @@ Import the data using Pandas.
 
 ## Consider the models
 
-Create and compare two models on this data: a logistic regression, and a random forests classifier. Before creating, fit, and score the models, make a prediction as to which model you think will perform better. You do not need to be correct! Write down (in markdown cells in your Jupyter Notebook) your prediction, and provide justification for your educated guess.
+Create and compare two models on this data: a logistic regression, and a random forests classifier. Before creating, fitting, and scoring the models, predict which model you think will perform better. You do not need to be correct! Write down (in markdown cells in your Jupyter Notebook) your prediction, and justify your educated guess.
 
 ## Fit a LogisticRegression model and RandomForestClassifier model
 
